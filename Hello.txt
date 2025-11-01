@@ -1,4 +1,8 @@
 Hello Git
 Second Commit
 Third Branch Commit
+<<<<<<< HEAD
 4th master commit
+=======
+4th branchTest commit
+>>>>>>> branchTest
